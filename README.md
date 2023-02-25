@@ -6,3 +6,5 @@ McStas can then be used to simulate neutron scattering experiments by using the 
 
 The Jupyter notebook generates the file try_ges.obj. This generated file can then be imported into Blender for visualization. 
 A png file is also added to show the visualized result in Blender.
+
+Note that the guide structure is sliced in such a way that as few shapes as possible are created, but as many as necessary, so that the course of the input function is preserved as far as possible. A maximum length of the sections can be defined.
